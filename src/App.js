@@ -12,7 +12,7 @@ import { Carousel } from 'react-responsive-carousel';
 function App() {
   return (
    <>
-      {/* <Navbar />
+      <Navbar />
       <About />
       <Services />
       <div className='my-10'>
@@ -22,7 +22,7 @@ function App() {
       </div>
       <Work />
       <ContactUsForm />
-      <Footer /> */}
+      <Footer />
 
     </>   
   );
