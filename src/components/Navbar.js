@@ -3,6 +3,7 @@ import { IoLogoFacebook } from 'react-icons/io'
 import {GrInstagram} from 'react-icons/gr'
 import {RxTwitterLogo} from 'react-icons/rx'
 import {BsGithub} from 'react-icons/bs'
+import "./Animation.css"
 
 const Navbar = () => {
   return (
@@ -10,20 +11,20 @@ const Navbar = () => {
       <div className="bg-[url('https://preview.colorlib.com/theme/glint/images/hero-bg.jpg.webp')] bg-cover h-screen text-white">
       <div className="w-[90%] mx-auto lg:w-[95%]">
         {/* navbar  */}
-        <div className="flex justify-between py-5 lg:py-2">
-          <p className="text-3xl font-bold">
+        <div className="flex justify-between py-5 lg:py-8">
+          <p className="text-3xl font-bold cursor-pointer">
             Gentium<b className="text-glintGreen">.</b>
           </p>
           <div>
-            <HiMenu className="text-4xl" />
+            <HiMenu className="text-4xl cursor-pointer" />
           </div>
         </div>
         {/* otherthan navbar but in nav section  */}
         <div className='my-10 sm:flex sm:justify-between sm:items-center py-5 lg:py-5'>
-          <div className="my-5 md:w-[60%] lg:w-[70%] mx-auto lg:pr-80">
+          <div className="my-5 md:w-[60%] lg:w-[70%] mx-auto lg:pr-80" id="animation-first-navbar">
             <div className="text-center lg:text-start">
               <h1 className="text-2xl md:text-3xl lg:text-2xl">WELCOME,</h1>
-              <p className="py-10 text-5xl font-bold md:text-5xl lg:my-10 lg:font-bold xl:text-6xl">
+              <p className="py-14 text-4xl leading-snug font-bold sm:leading-normal md:text-5xl lg:my-5 lg:font-bold xl:text-6xl 2xl:leading-normal">
                 We are a creative group of people who design influential brands
                 and digital experiences.
               </p>
@@ -45,16 +46,16 @@ const Navbar = () => {
           <div>
             <div className="hidden sm:block">
               <span >
-                <IoLogoFacebook className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8" />
+                <IoLogoFacebook className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8 cursor-pointer" />
               </span>
               <span >
-                <RxTwitterLogo className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8" />
+                <RxTwitterLogo className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8 cursor-pointer" />
               </span>
               <span >
-                <GrInstagram className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8" />
+                <GrInstagram className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8 cursor-pointer" />
               </span>
               <span >
-                <BsGithub className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8" />
+                <BsGithub className="my-2 h-10 w-10 mx-3 md:h-12 md:w-12 lg:h-8 lg:w-8 cursor-pointer" />
               </span>
             </div>
           </div>
