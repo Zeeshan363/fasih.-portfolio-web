@@ -3,8 +3,11 @@ import { IoLogoFacebook } from 'react-icons/io'
 import {GrInstagram} from 'react-icons/gr'
 import {RxTwitterLogo} from 'react-icons/rx'
 import {BsGithub} from 'react-icons/bs'
+import { useState } from 'react'
 
 const Navbar = () => {
+  const [open, setOpen] = useState( )
+
   return (
     <>
       <div className="bg-[url('https://preview.colorlib.com/theme/glint/images/hero-bg.jpg.webp')] bg-cover text-white">
@@ -15,7 +18,7 @@ const Navbar = () => {
             Gentium<b className="text-glintGreen">.</b>
           </p>
           <div>
-          <HiMenu className="block text-4xl" onClick="hidden" />
+          <HiMenu className="block text-4xl"  />
           </div>
         </div>
         {/* otherthan navbar but in nav section  */}
