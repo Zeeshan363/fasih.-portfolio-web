@@ -1,10 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const ContactUsForm = () => {
   return (
     <>
-      <div 
-      className="bg-[#111111] text-white bg-[url('https://preview.colorlib.com/theme/glint/images/contact-bg.jpg.webp')] bg-cover">
+      <div
+        className="bg-[#111111] text-white bg-[url('https://preview.colorlib.com/theme/glint/images/contact-bg.jpg.webp')] bg-cover"
+        id="contact"
+      >
         <div className="w-[85%] mx-auto sm:w-[80%] py-10">
           <div className="text-center my-10">
             <h1 className="text-lg font-bold text-glintGreen md:text-xl">
@@ -59,7 +61,7 @@ const ContactUsForm = () => {
         </div>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default ContactUsForm
+export default ContactUsForm;
