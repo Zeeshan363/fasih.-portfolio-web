@@ -51,7 +51,7 @@ const Services = () => {
             </div>
             <div className="text-center">
               <h1 className="text-xl font-bold py-5 sm:text-2xl xl:text-3xl 2xl:py-10">
-                Brand Identity
+                Ecommerce
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
                 Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
@@ -71,7 +71,7 @@ const Services = () => {
             </div>
             <div className="text-center">
               <h1 className="text-xl font-bold py-5 sm:text-2xl xl:text-3xl 2xl:py-10">
-                Brand Identity
+                App Development
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
                 Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
@@ -91,7 +91,7 @@ const Services = () => {
             </div>
             <div className="text-center">
               <h1 className="text-xl font-bold py-5 sm:text-2xl xl:text-3xl 2xl:py-10">
-                Brand Identity
+                Business Consultation
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
                 Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
@@ -111,7 +111,7 @@ const Services = () => {
             </div>
             <div className="text-center">
               <h1 className="text-xl font-bold py-5 sm:text-2xl xl:text-3xl 2xl:py-10">
-                Brand Identity
+                Website Development
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
                 Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
@@ -131,7 +131,7 @@ const Services = () => {
             </div>
             <div className="text-center">
               <h1 className="text-xl font-bold py-5 sm:text-2xl xl:text-3xl 2xl:py-10">
-                Brand Identity
+                Product Development
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
                 Nemo cupiditate ab quibusdam quaerat impedit magni. Earum

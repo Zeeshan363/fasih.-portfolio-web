@@ -1,5 +1,5 @@
 import { BsFacebook } from "react-icons/bs";
-import {RiTwitterLine} from "react-icons/ri"
+import {GrTwitter} from "react-icons/gr"
 import {GrInstagram } from "react-icons/gr"
 import {BsGithub} from 'react-icons/bs'
 
@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="w-[90%] mx-auto sm:w-[80%] lg:w-[70%] lg:flex lg:justify-around">
           <div className="text-center py-10 lg:w-[50%]">
             <h1 className="text-3xl py-3 font-bold text-glintGreen md:text-4xl cursor-pointer">
-              Gentium.
+              Fasih.
             </h1>
             <p className="text-xl text-start md:text-2xl lg:text-2xl xl:leading-relaxed 2xl:leading-relaxed 2xl:text-3xl">
               Proin eget tortor risus. Mauris blandit aliquet elit, eget
@@ -26,17 +26,17 @@ const Footer = () => {
             <div className="">
               <h1 className="text-xl font-bold py-5 md:text-2xl">FOLLOW ME</h1>
               <div className="flex justify-center items-center xl:py-10">
-                <span>
-                  <BsFacebook className="h-10 w-10 border border-white rounded-[50%] mx-3 md:h-12 md:w-12 cursor-pointer" />
+                <span className="">
+                  <BsFacebook className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
                 </span>
-                <span>
-                  <RiTwitterLine className="h-1ti-10 border border-white rounded-[50%] mx-3 md:h-12 md:w-12 cursor-pointer" />
+                <span className="">
+                  <GrTwitter className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
                 </span>
-                <span>
-                  <GrInstagram className="h-10 w-10 border border-white rounded-[50%] mx-3 md:h-12 md:w-12 cursor-pointer" />
+                <span className="">
+                  <GrInstagram className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
                 </span>
-                <span>
-                  <BsGithub className="h-10 w-10 border border-white rounded-[50%] mx-3 md:h-12 md:w-12 cursor-pointer" />
+                <span className="">
+                  <BsGithub className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
                 </span>
               </div>
             </div>
