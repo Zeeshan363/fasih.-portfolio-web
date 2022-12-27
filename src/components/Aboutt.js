@@ -36,7 +36,7 @@ const Aboutt = () => {
           <div className="text-center my-5 md:flex md:flex-wrap md:justify-center" data-aos="fade-up">
             <div className="mb-10 md:w-[45%] mx-auto lg:w-[22%] 2xl:mt-3">
               <h1 className="text-white text-6xl font-bold lg:text-7xl 2xl:text-8xl">
-                <CountUp end={127} duration={2} startOnMount={true} />
+                <CountUp end={127} duration={2} enableScrollSpy={true} />
               </h1>
               <p className="font-bold py-3 text-lg xl:text-xl xl:py-5">
                 Awards Received
@@ -45,7 +45,7 @@ const Aboutt = () => {
             </div>
             <div className="mb-10 md:w-[45%] mx-auto lg:w-[22%] 2xl:mt-3">
               <h1 className="text-white text-6xl font-bold lg:text-7xl 2xl:text-8xl">
-                <CountUp end={1664} duration={2} startOnMount={true} />
+                <CountUp end={1664} duration={2} enableScrollSpy={true} />
               </h1>
               <p className="font-bold py-3 text-lg xl:text-xl xl:py-5">
                 Cups of Coffee
@@ -54,7 +54,7 @@ const Aboutt = () => {
             </div>
             <div className="mb-10 md:w-[45%] mx-auto lg:w-[22%] 2xl:mt-3">
               <h1 className="text-white text-6xl font-bold lg:text-7xl 2xl:text-8xl">
-                <CountUp end={110} duration={2} startOnMount={true} />
+                <CountUp end={110} duration={2} enableScrollSpy={true} />
               </h1>
               <p className="font-bold py-3 text-lg xl:text-xl xl:py-5">
                 Projects Completed
@@ -63,7 +63,7 @@ const Aboutt = () => {
             </div>
             <div className="mb-10 md:w-[45%] mx-auto lg:w-[22%] 2xl:mt-3">
               <h1 className="text-white text-6xl font-bold lg:text-7xl 2xl:text-8xl">
-                <CountUp end={99} duration={2} startOnMount={true} />
+                <CountUp end={99} duration={2} enableScrollSpy={true} />
               </h1>
               <p className="font-bold py-3 text-lg xl:text-xl xl:py-5">
                 Happy Clients

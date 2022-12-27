@@ -18,7 +18,7 @@ function App() {
       <Services />
       <Work />
       <div className='my-10'>
-      <h1 className="text-lg font-bold text-glintGreen text-center md:text-xl 2xl:pt-20">CLIENT REVIEWS</h1>
+      <h1 className="text-lg font-bold text-glintGreen text-center md:text-xl md:pt-20 2xl:pt-32">CLIENT REVIEWS</h1>
       <p className='w-[90%] mx-auto text-center text-2xl font-bold my-5 md:text-3xl'>WHAT OUR CLIENTS SAY</p>
       <Client />
       </div>

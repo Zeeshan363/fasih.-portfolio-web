@@ -4,7 +4,7 @@ const ContactUsForm = () => {
   return (
     <>
       <div
-        className="bg-[#111111] text-white bg-[url('https://preview.colorlib.com/theme/glint/images/contact-bg.jpg.webp')] bg-cover"
+        className="bg-[#111111] text-white bg-[url('https://preview.colorlib.com/theme/glint/images/contact-bg.jpg.webp')] bg-cover mt-20"
         id="contact"
       >
         <div className="w-[85%] mx-auto sm:w-[80%] py-10">

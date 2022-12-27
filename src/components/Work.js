@@ -10,7 +10,7 @@ const Work = () => {
 
   return (
     <>
-      <div className="bg-[#111111] mb-[1200px] md:mb-[630px]" id="work">
+      <div className="bg-[#111111] mb-[1200px] md:mb-[630px] " id="work">
         <div className=" text-white my-5 w-[85%] mx-auto relative">
           <div className="bg-[#111111] h-[450px] flex flex-col justify-center items-center">
             <div className="text-center my-10 pb-40" data-aos="fade-up">
