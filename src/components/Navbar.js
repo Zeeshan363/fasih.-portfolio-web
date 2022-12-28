@@ -53,6 +53,9 @@ const Navbar = () => {
               <a href="#contact" className="cursor-pointer text-lg md:text-xl xl:text-2xl xl:py-3 2xl:font-bold md:pl-4">
                 CONTACT
               </a>
+              <a href="#blogs" className="cursor-pointer text-lg md:text-xl xl:text-2xl xl:py-3 2xl:font-bold md:pl-4">
+                BLOGS
+              </a>
             </div>
           </div>
           <div className="flex justify-between py-5 lg:py-8 ">

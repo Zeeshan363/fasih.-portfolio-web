@@ -4,7 +4,7 @@ const ContactUsForm = () => {
   return (
     <>
       <div
-        className="bg-[#111111] text-white bg-[url('https://preview.colorlib.com/theme/glint/images/contact-bg.jpg.webp')] bg-cover mt-20"
+        className="bg-[#111111] text-white bg-[url('https://preview.colorlib.com/theme/glint/images/contact-bg.jpg.webp')] bg-cover mt-20 lg:py-20"
         id="contact"
       >
         <div className="w-[85%] mx-auto sm:w-[80%] py-10">
@@ -54,7 +54,7 @@ const ContactUsForm = () => {
                 placeholder="Message"
               />
             </div>
-            <div className="text-center font-bold bg-glintGreen px-5 my-3">
+            <div className="text-center font-bold bg-glintGreen px-5 my-3 hover:bg-black hover:text-glintGreen hover:font-bold">
               <button className="py-3">SUBMIT NOW</button>
             </div>
           </div>

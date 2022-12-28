@@ -26,23 +26,23 @@ const Footer = () => {
             <div className="">
               <h1 className="text-xl font-bold py-5 md:text-2xl">FOLLOW ME</h1>
               <div className="flex justify-center items-center xl:py-10">
-                <span className="">
+                <a className="" href="">
                   <BsFacebook className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
-                </span>
-                <span className="">
+                </a>
+                <a className="" href="">
                   <GrTwitter className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
-                </span>
-                <span className="">
+                </a>
+                <a className="" href="">
                   <GrInstagram className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
-                </span>
-                <span className="">
+                </a>
+                <a className="" href="">
                   <BsGithub className="h-10 w-10 mx-3 md:h-12 md:w-12 cursor-pointer" />
-                </span>
+                </a>
               </div>
             </div>
             <div className="flex justify-around my-5 md:text-xl">
-              <span className="cursor-pointer"><b className="md:text-2xl">Email: </b> fasih31@gmai.com</span>
-              <span><b className="md:text-2xl">Contact No.</b> +92425692172</span>
+              <a href="" className="cursor-pointer"><b className="md:text-2xl">Email: </b> fasih31@gmai.com</a>
+              <a href=""><b className="md:text-2xl">Contact No.</b> +92425692172</a>
             </div>
           </div>
         </div>

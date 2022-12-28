@@ -20,8 +20,7 @@ export default class Client extends Component {
             <h3>Kamran A.</h3>
             <h4>Entrepreneur</h4>
             <p>
-              It's freeing to be able to catch up on customized news and not be
-              distracted by a social media element on the same site
+              Fasih is  a standup guy with an honest and mature mindset. He played an interesting role that led to better making of Islamic Finance for me and my colleagues.
             </p>
           </div>
         </div>
@@ -29,8 +28,8 @@ export default class Client extends Component {
         <div>
           <img src="./pictures/client2.jpg" />
           <div className="myCarousel">
-            <h3>Shirley Fultz</h3>
-            <h4>Designer</h4>
+            <h3>John Doe</h3>
+            <h4>Lead Organization Developer in Naveena Group</h4>
             <p>
               It's freeing to be able to catch up on customized news and not be
               distracted by a social media element on the same site
