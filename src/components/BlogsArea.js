@@ -8,7 +8,7 @@ const BlogsArea = () => {
   return (
     <>
       <div id="blogsarea">
-        <div className="bg-[#111111]">
+        <div className="bg-[#111111]" >
           <div className="w-[90%] mx-auto text-center py-16 xl:py-20">
             <h1 className="text-2xl text-glintGreen font-bold md:text-3xl xl:text-4xl">
               UNCATEGORIZED

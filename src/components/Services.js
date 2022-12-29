@@ -34,10 +34,7 @@ const Services = () => {
                 Brand Identity
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
-                Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
-                suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab
-                sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt
-                suscipit voluptas ipsa in tempora esse soluta sint.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis illum, necessitatibus maiores ad ducimus ut ipsam! Possimus, molestias eum. Nisi facere explicabo id, eius eaque error quis atque nam ullam.
               </p>
             </div>
           </div>
@@ -54,10 +51,7 @@ const Services = () => {
                 Ecommerce
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
-                Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
-                suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab
-                sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt
-                suscipit voluptas ipsa in tempora esse soluta sint.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis illum, necessitatibus maiores ad ducimus ut ipsam! Possimus, molestias eum. Nisi facere explicabo id, eius eaque error quis atque nam ullam.
               </p>
             </div>
           </div>
@@ -74,10 +68,7 @@ const Services = () => {
                 App Development
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
-                Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
-                suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab
-                sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt
-                suscipit voluptas ipsa in tempora esse soluta sint.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis illum, necessitatibus maiores ad ducimus ut ipsam! Possimus, molestias eum. Nisi facere explicabo id, eius eaque error quis atque nam ullam.
               </p>
             </div>
           </div>
@@ -94,10 +85,7 @@ const Services = () => {
                 Business Consultation
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
-                Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
-                suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab
-                sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt
-                suscipit voluptas ipsa in tempora esse soluta sint.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis illum, necessitatibus maiores ad ducimus ut ipsam! Possimus, molestias eum. Nisi facere explicabo id, eius eaque error quis atque nam ullam.
               </p>
             </div>
           </div>
@@ -114,10 +102,7 @@ const Services = () => {
                 Website Development
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
-                Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
-                suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab
-                sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt
-                suscipit voluptas ipsa in tempora esse soluta sint.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis illum, necessitatibus maiores ad ducimus ut ipsam! Possimus, molestias eum. Nisi facere explicabo id, eius eaque error quis atque nam ullam.
               </p>
             </div>
           </div>
@@ -134,10 +119,7 @@ const Services = () => {
                 Product Development
               </h1>
               <p className="text-lg sm:text-xl xl:text-2xl">
-                Nemo cupiditate ab quibusdam quaerat impedit magni. Earum
-                suscipit ipsum laudantium. Quo delectus est. Maiores voluptas ab
-                sit natus veritatis ut. Debitis nulla cumque veritatis. Sunt
-                suscipit voluptas ipsa in tempora esse soluta sint.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis illum, necessitatibus maiores ad ducimus ut ipsam! Possimus, molestias eum. Nisi facere explicabo id, eius eaque error quis atque nam ullam.
               </p>
             </div>
           </div>
