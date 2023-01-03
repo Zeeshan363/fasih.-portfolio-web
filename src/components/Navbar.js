@@ -78,7 +78,7 @@ const Navbar = () => {
             </div>
           </div>
           {/* otherthan navbar but in nav section  */}
-          <div className="my-10 sm:flex sm:justify-between sm:items-center py-5 lg:py-5 h-[80%]">
+          <div className="my-10 sm:flex sm:justify-between sm:items-center py-5 lg:py-5 h-[68%]">
             <div
               className="my-5 md:w-[60%] lg:w-[70%] mx-auto lg:pr-80"
               id="animation-first-navbar"
