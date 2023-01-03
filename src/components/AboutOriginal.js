@@ -12,7 +12,7 @@ const AboutOriginal = () => {
   return (
     <>
       <div className="bg-glintGreen">
-        <div className="w-[90%] mx-auto https://zeeshan363.github.io/pure-html-random-website/://zeeshan363.github.io/pure-html-random-website/mx-auto py-20 lg:w-[80%] lg:h-screen xl:w-[70%] 2xl:w-[60%]">
+        <div className="w-[90%] mx-auto https://zeeshan363.github.io/pure-html-random-website/://zeeshan363.github.io/pure-html-random-website/mx-auto py-20 lg:w-[80%]  xl:w-[70%] 2xl:w-[60%]">
           <div className="text-center" data-aos="fade-up">
             <h1 className="text-xl font-bold my-2 tracking-wider 2xl:text-2xl">
               Hello There

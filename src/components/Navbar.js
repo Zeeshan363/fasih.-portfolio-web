@@ -24,10 +24,10 @@ const Navbar = () => {
   return (
     <>
       <div className="bg-[url('https://preview.colorlib.com/theme/glint/images/hero-bg.jpg.webp')] bg-cover h-screen text-white">
-        <div className="w-[90%] mx-auto lg:w-[95%]">
+        <div className="w-[90%] mx-auto lg:w-[95%]  h-[99%]">
           {/* navbar  */}
           <div
-            className="fixed right-0 w-[70vw] h-[100vh] z-50 text-white bg-black sm:w-[40%] md:w-[25%] 2xl:w-[20%]"
+            className="fixed right-0 w-[70vw] h-[100vh] z-50 text-white bg-black sm:w-[40%] md:w-[25%] 2xl:w-[20%] "
             style={{
               // transform: toggle ? "translateX(30rem)" : "translateX(-10rem)",
               transform: toggle && "translateX(-25vw)",
@@ -78,7 +78,7 @@ const Navbar = () => {
             </div>
           </div>
           {/* otherthan navbar but in nav section  */}
-          <div className="my-10 sm:flex sm:justify-between sm:items-center py-5 lg:py-5">
+          <div className="my-10 sm:flex sm:justify-between sm:items-center py-5 lg:py-5 h-[80%]">
             <div
               className="my-5 md:w-[60%] lg:w-[70%] mx-auto lg:pr-80"
               id="animation-first-navbar"
